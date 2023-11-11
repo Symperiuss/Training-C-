@@ -11,8 +11,3 @@ char main(void){
     }
 return  ; 
 }
-
-
-
-
-
