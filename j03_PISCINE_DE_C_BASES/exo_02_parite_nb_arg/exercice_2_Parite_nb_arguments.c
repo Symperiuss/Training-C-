@@ -1,12 +1,11 @@
 
-int main(int argc,  char** argv){ 
+int main(int argc, char **argv)
+{
 
-    if ((argc+1) % 2 == 1 ) {
+    if ((argc + 1) % 2 == 1)
+    {
 
-
-    return (1);
+        return (1);
     }
-    return (0) ;
-
- }
-
+    return (0);
+}
